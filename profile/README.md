@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://knickerbockercotillion.com/DefaultLogo.png" alt="knickerbocker" width="300"/>
+  <img src="https://knickerbockercotillion.com/DefaultLogo.png" alt="knickerbocker" width="400"/>
   
   <h1>Knickerbocker Cotillion</h1>
   
