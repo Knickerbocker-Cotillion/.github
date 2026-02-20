@@ -14,6 +14,4 @@ Building confidence, grace, and social skills through dance</em></p>
   
   ---
   
-  <p align="center"><sub>Developed by <a href="https://sethv.dev/">SethV</a></sub></p>
-  
 </div>
